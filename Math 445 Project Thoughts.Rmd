@@ -1,0 +1,13 @@
+---
+title: "R Notebook"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+Plan is to investigate how Monte Carlo simulation is used in the process of calculating WPA in baseball. I want to research into 
+how winning/run expectancy is used in monte carlo simulation to craete a win expectancy graph throughout the stages of a game. We are interested in how these methods can be applied to sports betting simulations.
+
+https://gregstoll.com/~gregstoll/baseball/stats.html#V.0.1.0.1.0.0 <- This is a win expectancy calculator
+
+https://www.coursera.org/lecture/mathematics-sport/3-4-baseball-monte-carlo-simulation-gn7kW <- watch this
